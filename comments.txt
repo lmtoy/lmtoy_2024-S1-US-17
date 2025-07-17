@@ -1,5 +1,12 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 
+# combos
+127341__127417 #qagrade=0
+127816_128431  #qagrade=0
+127714_131763  #qagrade=0
+127422_127525  #qagrade=0
+127723_127813  #qagrade=0
+
 # 20010800
   127341     REMOVED BAD C/B 1/0,3/3 #badcb=1/0,3/3
   127346     [REOBSERVE] < 2/4 chassis for band 2 #qagrade=-2
